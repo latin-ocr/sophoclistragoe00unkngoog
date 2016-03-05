@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sophoclistragoe00unkngoog_0195.png"; bbox 0 0 2850 4867; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 717 1263 733 1284">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 717 1263 733 1284">
+     <span class='ocr_line' id='line_1_1' title="bbox 717 1263 733 1284; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 717 1263 733 1284; x_wconf 76' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 652 1407 1701 1600">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 652 1407 1701 1600">
+     <span class='ocr_line' id='line_1_2' title="bbox 652 1407 1701 1600; baseline 0 -3"><span class='ocrx_word' id='word_1_2' title='bbox 652 1407 1701 1600; x_wconf 73' lang='grc' dir='ltr'><em>ΣΟΦΟΚΛΕΟΥΣ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 366 1779 1960 2016">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 366 1755 2076 2016">
+     <span class='ocr_line' id='line_1_3' title="bbox 366 1779 1960 2016; baseline 0.003 -83"><span class='ocrx_word' id='word_1_3' title='bbox 366 1779 533 2016; x_wconf 19' lang='grc' dir='ltr'><strong>,Α</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 848 1791 917 1933; x_wconf 91' lang='lat' dir='ltr'><em>l</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1137 1780 1410 1934; x_wconf 76' lang='lat' dir='ltr'><strong>-A</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1605 1791 1960 1936; x_wconf 92' lang='grc' dir='ltr'><strong>Σ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 249 4307 1681 4410">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 249 4307 1681 4410">
+     <span class='ocr_line' id='line_1_4' title="bbox 249 4307 1681 4410; baseline 0.006 -17"><span class='ocrx_word' id='word_1_7' title='bbox 249 4336 410 4406; x_wconf 57' lang='lat' dir='ltr'><strong>sabb.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 446 4341 601 4407; x_wconf 69' lang='lat' dir='ltr'><strong>&#39;ft-ag.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 635 4307 753 4395; x_wconf 46' lang='lat' dir='ltr'><strong>vol,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 793 4345 857 4398; x_wconf 87' lang='lat' dir='ltr'><strong>n.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 897 4346 1040 4399; x_wconf 68' lang='lat' dir='ltr'>Sect.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1079 4325 1167 4398; x_wconf 54' lang='grc' dir='ltr'><strong>ΙΙ.ω</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1642 4346 1681 4410; x_wconf 86' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 654 4523 750 4575">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 654 4523 750 4575">
+     <span class='ocr_line' id='line_1_5' title="bbox 654 4523 750 4575; baseline 0.01 -1"><span class='ocrx_word' id='word_1_14' title='bbox 654 4523 671 4554; x_wconf 45' lang='grc' dir='ltr'><em>β</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 743 4564 750 4575; x_wconf 74' lang='grc' dir='ltr'><strong><em>ο</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
